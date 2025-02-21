@@ -11,10 +11,10 @@ const JWT_SECRET = 'your-secret-key'; // In production, use environment variable
 
 // Database configuration
 const dbConfig = {
-    host: 'localhost',
-    user: 'root',
-    password: 'Uki@12345',
-    database: 'employee_db',
+    host: '135.181.217.49',
+    user: 'ckmanage_new',
+    password: 'ckmanage_new',
+    database: 'ckmanage_new',
     waitForConnections: true,
     connectionLimit: 10,
     queueLimit: 0
